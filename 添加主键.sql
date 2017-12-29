@@ -1,0 +1,1 @@
+﻿ALTER TABLE public.st_r_cn_new ADD PRIMARY KEY (gid)
